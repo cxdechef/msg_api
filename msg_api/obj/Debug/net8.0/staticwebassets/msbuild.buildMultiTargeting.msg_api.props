@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\msg_api.props" />
+</Project>
